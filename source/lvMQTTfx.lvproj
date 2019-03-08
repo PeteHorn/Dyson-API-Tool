@@ -67,6 +67,7 @@
 				<Item Name="Send Msg and Wait on Response.vi" Type="VI" URL="../support/Utility/Send Msg and Wait on Response.vi"/>
 				<Item Name="Update Console.vi" Type="VI" URL="../support/Utility/Update Console.vi"/>
 				<Item Name="Update Subscription Arrays on Unsubscribe.vi" Type="VI" URL="../support/Utility/Update Subscription Arrays on Unsubscribe.vi"/>
+				<Item Name="Fill_Combo_API_Box (SubVI).vi" Type="VI" URL="../support/Utility/Fill_Combo_API_Box (SubVI).vi"/>
 			</Item>
 			<Item Name="Message Queue.lvlib" Type="Library" URL="../support/Message Queue/Message Queue.lvlib"/>
 			<Item Name="User Event - Stop.lvlib" Type="Library" URL="../support/User Event - Stop/User Event - Stop.lvlib"/>
@@ -82,7 +83,6 @@
 		<Item Name="Viewer" Type="Folder">
 			<Item Name="TopicViewer.lvlib" Type="Library" URL="../support/viewer/TopicViewer.lvlib"/>
 		</Item>
-		<Item Name="Fill_Combo_API_Box (SubVI).vi" Type="VI" URL="../../../../../James Pratice LV/Fill_Combo_API_Box (SubVI).vi"/>
 		<Item Name="Ideal Sub Layout.vi" Type="VI" URL="../Ideal Sub Layout.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -111,6 +111,7 @@
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
+				<Item Name="LVComboBoxStrsAndValuesArrayTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVComboBoxStrsAndValuesArrayTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
