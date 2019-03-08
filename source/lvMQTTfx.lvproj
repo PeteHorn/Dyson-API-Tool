@@ -82,7 +82,7 @@
 		<Item Name="Viewer" Type="Folder">
 			<Item Name="TopicViewer.lvlib" Type="Library" URL="../support/viewer/TopicViewer.lvlib"/>
 		</Item>
-		<Item Name="Fill_Combo_API_Box (SubVI).vi" Type="VI" URL="../../../../../James Pratice LV/Fill_Combo_API_Box (SubVI).vi"/>
+		<Item Name="Fill_Combo_API_Box (SubVI).vi" Type="VI" URL="../support/Fill_Combo_API_Box (SubVI).vi"/>
 		<Item Name="Ideal Sub Layout.vi" Type="VI" URL="../Ideal Sub Layout.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
