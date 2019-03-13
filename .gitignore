@@ -1,2 +1,4 @@
 /source/lvMQTTfx.lvlps
 /source/lvMQTTfx.aliases
+/source/*.aliases
+/source/*.lvlps
