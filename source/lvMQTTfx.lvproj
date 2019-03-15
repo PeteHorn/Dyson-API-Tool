@@ -130,6 +130,7 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="Error Handler - Subscriber Loop.vi" Type="VI" URL="../support/Error Handler - Subscriber Loop.vi"/>
+			<Item Name="Fill_Combo_API_Box (SubVI).vi" Type="VI" URL="../support/Fill_Combo_API_Box (SubVI).vi"/>
 			<Item Name="Subscriber Data.ctl" Type="VI" URL="../controls/Subscriber Data.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
